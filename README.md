@@ -1,7 +1,7 @@
 # Hive-Mind 5.0.0
  
 **Blue-Bumble**
-This program is made for having your viewers take control over you wasd keys briefly to move you into random directions for a small brief ammount of time.
+- This program is made for having your viewers take control over you wasd keys briefly to move you into random directions for a small brief ammount of time.
 ## Python Version
 3.8.2
 
