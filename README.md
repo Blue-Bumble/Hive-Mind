@@ -1,12 +1,13 @@
 # Hive-Mind 5.0.0
  
-**Blue-Bumble**
-- This program is made for having your viewers take control over you wasd keys briefly to move you into random directions for a small brief ammount of time.
+**Made by Blue-Bumble**
+- This program is made for having your viewers take control over you wasd keys briefly to move you into random directions for a small brief ammount of time. Using TwitchAPI
 ## Python Version
 3.8.2
-
+**to install packages you can find the batch script to auto install it under script "pip packages.bat"
 ## How to install
 **!! Extract Hive-Mind folder to Desktop (Important! or it wont work unless you change it) !!**
+
 
 > **Making your first application for twtich** 
 > 
