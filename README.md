@@ -26,4 +26,4 @@
 	*  From here once its running redeem you should get a response in the termial "Got Reward ID: 3dsadfsf3ac-a544-4b34-622226-eefsad542sf287ce"
 	*  Edit the Core Script and scrolls down to where you find **reward_id == "reward id":**
 		* Paste your reward ID to the corrilating left, right, redeption you want. so it should looks like   
-		* For the #left match with left redemption in stream deck **reward_id == "3dsadfsf3ac-a544-4b34-622226-eefsad542sf287ce":**
+		* For the #left match with left redemption in stream deck		 **reward_id == "3dsadfsf3ac-a544-4b34-622226-eefsad542sf287ce":**
