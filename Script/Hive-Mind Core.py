@@ -67,7 +67,7 @@ def callback_bits(uuid: UUID, data: dict):
 
 #Conditions for CHANNEL POINTS redemptions
 def callback_points(uuid: UUID, data: dict): # channel points system
-    print('got points callback ' + str(uuid) + str(data)) #To see a mess of unessary data dump
+    #print('got points callback ' + str(uuid) + str(data)) #To see a mess of unessary data dump
 
 
     #Sees ID
