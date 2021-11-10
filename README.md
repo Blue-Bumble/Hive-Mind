@@ -6,7 +6,7 @@ This program is made for having your viewers take control over you wasd keys bri
 3.8.2
 
 ## How to install
-- **!! Extract Hive-Mind folder to Desktop (Important! or it wont work unless you change it) !!**
+**!! Extract Hive-Mind folder to Desktop (Important! or it wont work unless you change it) !!**
 
 > **Making your first application for twtich** 
 > 
