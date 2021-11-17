@@ -98,6 +98,7 @@ class functions():
             return False
         else:
             print("target Vrchat") #Debugging tool
+            win32gui.ShowWindow(get_window, 3)
             win32gui.SetForegroundWindow(get_window)
             return True
 
