@@ -1,4 +1,4 @@
-# Hive-Mind 5.0.0
+# Hive-Mind 5.1.0
  
 **Made by Blue-Bumble**
 - This program is made for having your viewers take control over you wasd keys briefly to move you into random directions for a small brief ammount of time. Using TwitchAPI
