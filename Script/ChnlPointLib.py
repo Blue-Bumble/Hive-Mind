@@ -93,14 +93,15 @@ class functions():
         get_window = win32gui.FindWindow(None, winname)
         try:
             win32ui.FindWindow(None, winname)
+            win32gui.ShowWindow(get_window, 1)
+             #win32gui.SetAsForegroundWindow(get_window)
         except win32ui.error:
             print("Vrchat isnt open") #Debugging tool
             return False
         else:
             print("target Vrchat") #Debugging tool
-            win32gui.ShowWindow(get_window, 3)
-            win32gui.SetForegroundWindow(get_window)
             return True
+
 
 class sounds():
     def derp(): # this place derpy music
